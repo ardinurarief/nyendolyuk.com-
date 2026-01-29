@@ -767,7 +767,7 @@ section {
 
 /* Menu Konten */
 .menu {
-    background-color: var(--bg-color);
+    background-color: var(--bg-light);
     padding: 100px 0;
     position: relative;
 }
@@ -1321,3 +1321,4 @@ section {
     padding: 24px;
   }
 }
+
